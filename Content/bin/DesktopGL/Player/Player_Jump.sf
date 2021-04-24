@@ -1,0 +1,12 @@
+{
+  "textureAtlas": {
+    "texture": "Player_Jump.png",
+    "regionWidth": 8,
+    "regionHeight": 9
+  },
+  "cycles": {
+    "jump": {
+      "frames": [0]
+    }
+  }
+}

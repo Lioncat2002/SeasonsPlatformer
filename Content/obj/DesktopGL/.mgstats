@@ -1,0 +1,21 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/Monogame/SeasonsPlatformer/Content/Autumn/Decorations/Decorations_Autumn.png","D:/Monogame/SeasonsPlatformer/Content/bin/DesktopGL/Autumn/Decorations/Decorations_Autumn.xnb","TextureProcessor","Texture2DContent",313,3157,0.6110787
+"D:/Monogame/SeasonsPlatformer/Content/Autumn/Ground/Ground_Autumn.png","D:/Monogame/SeasonsPlatformer/Content/bin/DesktopGL/Autumn/Ground/Ground_Autumn.xnb","TextureProcessor","Texture2DContent",738,9045,0.0018629
+"D:/Monogame/SeasonsPlatformer/Content/Autumn/Trees/Trees_Autumn.png","D:/Monogame/SeasonsPlatformer/Content/bin/DesktopGL/Autumn/Trees/Trees_Autumn.xnb","TextureProcessor","Texture2DContent",626,4181,0.0014677
+"D:/Monogame/SeasonsPlatformer/Content/map.tmx","D:\Monogame\SeasonsPlatformer\Content\bin\DesktopGL\map.tmx","CopyItem","File",18061,18061,0.0026181
+"D:/Monogame/SeasonsPlatformer/Content/Miscellaneous/Clouds/Cloud_1.png","D:/Monogame/SeasonsPlatformer/Content/bin/DesktopGL/Miscellaneous/Clouds/Cloud_1.xnb","TextureProcessor","Texture2DContent",140,853,0.0016357
+"D:/Monogame/SeasonsPlatformer/Content/Miscellaneous/Clouds/Cloud_2.png","D:/Monogame/SeasonsPlatformer/Content/bin/DesktopGL/Miscellaneous/Clouds/Cloud_2.xnb","TextureProcessor","Texture2DContent",143,853,0.0016836
+"D:/Monogame/SeasonsPlatformer/Content/Miscellaneous/Clouds/Cloud_3.png","D:/Monogame/SeasonsPlatformer/Content/bin/DesktopGL/Miscellaneous/Clouds/Cloud_3.xnb","TextureProcessor","Texture2DContent",129,597,0.0018186
+"D:/Monogame/SeasonsPlatformer/Content/Miscellaneous/Clouds/Cloud_4.png","D:/Monogame/SeasonsPlatformer/Content/bin/DesktopGL/Miscellaneous/Clouds/Cloud_4.xnb","TextureProcessor","Texture2DContent",107,341,0.0010719
+"D:/Monogame/SeasonsPlatformer/Content/Miscellaneous/Miscellaneous.png","D:/Monogame/SeasonsPlatformer/Content/bin/DesktopGL/Miscellaneous/Miscellaneous.xnb","TextureProcessor","Texture2DContent",863,4181,0.0014867
+"D:/Monogame/SeasonsPlatformer/Content/Palette/BubbleGum16.png","D:/Monogame/SeasonsPlatformer/Content/bin/DesktopGL/Palette/BubbleGum16.xnb","TextureProcessor","Texture2DContent",183,149,0.0012024
+"D:/Monogame/SeasonsPlatformer/Content/Player/Player.sf","D:\Monogame\SeasonsPlatformer\Content\bin\DesktopGL\Player/Player.sf","CopyItem","File",229,229,0.0006133
+"D:/Monogame/SeasonsPlatformer/Content/Player/Player_Jump.png","D:/Monogame/SeasonsPlatformer/Content/bin/DesktopGL/Player/Player_Jump.xnb","TextureProcessor","Texture2DContent",175,341,0.001538
+"D:/Monogame/SeasonsPlatformer/Content/Player/Player_Jump.sf","D:\Monogame\SeasonsPlatformer\Content\bin\DesktopGL\Player/Player_Jump.sf","CopyItem","File",175,175,0.0006065
+"D:/Monogame/SeasonsPlatformer/Content/Player/Player_Walk.png","D:/Monogame/SeasonsPlatformer/Content/bin/DesktopGL/Player/Player_Walk.xnb","TextureProcessor","Texture2DContent",292,1813,0.001347
+"D:/Monogame/SeasonsPlatformer/Content/Summer - spring/Decorations/Decorations_Summer.png","D:/Monogame/SeasonsPlatformer/Content/bin/DesktopGL/Summer - spring/Decorations/Decorations_Summer.xnb","TextureProcessor","Texture2DContent",435,3925,0.0017529
+"D:/Monogame/SeasonsPlatformer/Content/Summer - spring/Ground/Ground_Summer.png","D:/Monogame/SeasonsPlatformer/Content/bin/DesktopGL/Summer - spring/Ground/Ground_Summer.xnb","TextureProcessor","Texture2DContent",726,9045,0.0026738
+"D:/Monogame/SeasonsPlatformer/Content/Summer - spring/Trees/Trees_Summer.png","D:/Monogame/SeasonsPlatformer/Content/bin/DesktopGL/Summer - spring/Trees/Trees_Summer.xnb","TextureProcessor","Texture2DContent",1139,7765,0.0015614
+"D:/Monogame/SeasonsPlatformer/Content/Winter/Decorations/Decorations_Winter.png","D:/Monogame/SeasonsPlatformer/Content/bin/DesktopGL/Winter/Decorations/Decorations_Winter.xnb","TextureProcessor","Texture2DContent",685,5205,0.001283
+"D:/Monogame/SeasonsPlatformer/Content/Winter/Ground/Ground_Winter.png","D:/Monogame/SeasonsPlatformer/Content/bin/DesktopGL/Winter/Ground/Ground_Winter.xnb","TextureProcessor","Texture2DContent",741,9045,0.0013196
+"D:/Monogame/SeasonsPlatformer/Content/Winter/Trees/Trees_Winter.png","D:/Monogame/SeasonsPlatformer/Content/bin/DesktopGL/Winter/Trees/Trees_Winter.xnb","TextureProcessor","Texture2DContent",837,5205,0.0012364

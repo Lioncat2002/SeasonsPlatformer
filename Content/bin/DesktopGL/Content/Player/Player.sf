@@ -1,0 +1,15 @@
+{
+  "textureAtlas": {
+    "texture": "Player_Walk.png",
+    "regionWidth": 8,
+    "regionHeight": 9
+  },
+  "cycles": {
+    "idle": {
+      "frames": [1]
+    },
+    "walk": {
+      "frames": [0,1,2,3,4,5]
+    }
+  }
+}
