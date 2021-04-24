@@ -28,4 +28,4 @@ The main part is the collision check in the update method which enables the plat
                 }
             }
  ```
-You can check out the jump part very easily after this ;)
+You can code out the jump part very easily after this ;)
