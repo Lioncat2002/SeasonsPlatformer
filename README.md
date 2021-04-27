@@ -29,3 +29,8 @@ The main part is the collision check in the update method which enables the plat
             }
  ```
 You can code out the jump part very easily after this ;)
+
+
+## A video showing the platformer at work by Oyyou
+
+https://www.youtube.com/watch?v=8fr2Z086p5U
